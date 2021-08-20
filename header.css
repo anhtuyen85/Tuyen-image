@@ -1,0 +1,11 @@
+.header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-container nav {
+  height: 80px;
+  width: 100%;
+  background: BLUE;
+}
+/*# sourceMappingURL=header.css.map */
